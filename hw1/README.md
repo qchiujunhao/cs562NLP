@@ -21,7 +21,7 @@
 
  How many sentences are there in the CNA-GW corpus?
 
- 585064.
+ 	585064.
 
 # Part 3
 
@@ -39,7 +39,7 @@
 
   3. Produce a rank-frequency plot (similar to those seen on the Wikipedia page for Zipf’s Law) for this corpus. 
 
-  	![rank-frequency](part3_1_3.png)
+  	![rank-frequency](https://github.com/qchiujunhao/cs562NLP/blob/main/hw1/part3_1_3.png)
 
 
 
