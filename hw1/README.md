@@ -38,9 +38,8 @@
      16676531
 
   3. Produce a rank-frequency plot (similar to those seen on the Wikipedia page for Zipf’s Law) for this corpus. 
-
-  	![rank-frequency](https://github.com/qchiujunhao/cs562NLP/blob/main/hw1/part3_1_3.png)
-
+  
+  ![rand_frequency](https://github.com/qchiujunhao/cs562NLP/blob/main/hw1/part3_1_3.png)
 
 
   4. The thirty most common words:
