@@ -25,10 +25,11 @@
 
 # Part 3
 
+part3.py solve this part questions. Run 'python part3.py result_part2.txt > result_part3.txt', and then you can see all results on result_part3.txt.
+
 ## Word counting & distribution
 
-   part3.py solve this sub-part questions.
-
+  
   1. How many unique types are present in this corpus? 
      
      143294
