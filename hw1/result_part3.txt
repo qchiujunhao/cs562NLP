@@ -1,0 +1,138 @@
+The count of unique types:
+143294
+The count of unigram tokens:
+16676531
+The thirty most common words:
+THE TO OF AND IN A THAT TAIWAN 'S SAID FOR ON WILL WITH IS AT AS BY HE BE FROM HAS CHINA WAS AN PERCENT ITS HAVE IT NOT
+The new thirty most common words:
+TAIWAN 'S SAID CHINA PERCENT GOVERNMENT ALSO CHEN PRESIDENT YEAR TAIPEI NT TWO MAINLAND PEOPLE US NEW CHINESE ACCORDING PARTY ECONOMIC BILLION FIRST NATIONAL ONE FOREIGN WOULD INTERNATIONAL OFFICIALS CITY
+The count of unique types without stopwords:
+143156
+The count of unigram tokens without stopwords:
+10295204
+Threshold is 0
+('TREETOPS', 'SHEARED') pmi:  10295205.000000097 , ('TREETOPS', 'SHEARED') freq:  1 ,  TREETOPS freq:  1 , SHEARED freq:  1
+('HANNES', 'FARLEITER') pmi:  10295205.000000097 , ('HANNES', 'FARLEITER') freq:  1 ,  HANNES freq:  1 , FARLEITER freq:  1
+('FREIE', 'DEMOKRATISCHE') pmi:  10295205.000000097 , ('FREIE', 'DEMOKRATISCHE') freq:  1 ,  FREIE freq:  1 , DEMOKRATISCHE freq:  1
+('CEP006', '10-03-97') pmi:  10295205.000000097 , ('CEP006', '10-03-97') freq:  1 ,  CEP006 freq:  1 , 10-03-97 freq:  1
+('NICOSIA', 'GORGIE') pmi:  10295205.000000097 , ('NICOSIA', 'GORGIE') freq:  1 ,  NICOSIA freq:  1 , GORGIE freq:  1
+('GORGIE', 'MURADOV') pmi:  10295205.000000097 , ('GORGIE', 'MURADOV') freq:  1 ,  GORGIE freq:  1 , MURADOV freq:  1
+('CAUSUS', 'BELLI') pmi:  10295205.000000097 , ('CAUSUS', 'BELLI') freq:  1 ,  CAUSUS freq:  1 , BELLI freq:  1
+('OBLITERATION', 'PRINCELINGS') pmi:  10295205.000000097 , ('OBLITERATION', 'PRINCELINGS') freq:  1 ,  OBLITERATION freq:  1 , PRINCELINGS freq:  1
+('HARDCOVER', 'GILT-EDGED') pmi:  10295205.000000097 , ('HARDCOVER', 'GILT-EDGED') freq:  1 ,  HARDCOVER freq:  1 , GILT-EDGED freq:  1
+('FAYEZ', 'ZAWARNEH') pmi:  10295205.000000097 , ('FAYEZ', 'ZAWARNEH') freq:  1 ,  FAYEZ freq:  1 , ZAWARNEH freq:  1
+('9,197', '10,378') pmi:  10295205.000000097 , ('9,197', '10,378') freq:  1 ,  9,197 freq:  1 , 10,378 freq:  1
+('CEP002', '10-07-97') pmi:  10295205.000000097 , ('CEP002', '10-07-97') freq:  1 ,  CEP002 freq:  1 , 10-07-97 freq:  1
+('NN1', 'NN2') pmi:  10295205.000000097 , ('NN1', 'NN2') freq:  1 ,  NN1 freq:  1 , NN2 freq:  1
+('NN2', 'NN3') pmi:  10295205.000000097 , ('NN2', 'NN3') freq:  1 ,  NN2 freq:  1 , NN3 freq:  1
+('TULAGA', 'MANUELLA') pmi:  10295205.000000097 , ('TULAGA', 'MANUELLA') freq:  1 ,  TULAGA freq:  1 , MANUELLA freq:  1
+('LUCILLE', 'ROYBAL-ALLARD') pmi:  10295205.000000097 , ('LUCILLE', 'ROYBAL-ALLARD') freq:  1 ,  LUCILLE freq:  1 , ROYBAL-ALLARD freq:  1
+('HALLDOR', 'ASGRIMSSON') pmi:  10295205.000000097 , ('HALLDOR', 'ASGRIMSSON') freq:  1 ,  HALLDOR freq:  1 , ASGRIMSSON freq:  1
+('WAHYO', 'DJATMIKO') pmi:  10295205.000000097 , ('WAHYO', 'DJATMIKO') freq:  1 ,  WAHYO freq:  1 , DJATMIKO freq:  1
+('FLAVONOID', 'SPONIN') pmi:  10295205.000000097 , ('FLAVONOID', 'SPONIN') freq:  1 ,  FLAVONOID freq:  1 , SPONIN freq:  1
+('SPONIN', 'TANIN') pmi:  10295205.000000097 , ('SPONIN', 'TANIN') freq:  1 ,  SPONIN freq:  1 , TANIN freq:  1
+('UZI', '.90-CALIBER') pmi:  10295205.000000097 , ('UZI', '.90-CALIBER') freq:  1 ,  UZI freq:  1 , .90-CALIBER freq:  1
+('ZCCZ', 'CEP007') pmi:  10295205.000000097 , ('ZCCZ', 'CEP007') freq:  1 ,  ZCCZ freq:  1 , CEP007 freq:  1
+('CEP007', '10-10-97') pmi:  10295205.000000097 , ('CEP007', '10-10-97') freq:  1 ,  CEP007 freq:  1 , 10-10-97 freq:  1
+('FRIEDRICH', 'NAUMANN') pmi:  10295205.000000097 , ('FRIEDRICH', 'NAUMANN') freq:  1 ,  FRIEDRICH freq:  1 , NAUMANN freq:  1
+('ANDRIS', 'AMERIKS') pmi:  10295205.000000097 , ('ANDRIS', 'AMERIKS') freq:  1 ,  ANDRIS freq:  1 , AMERIKS freq:  1
+('PERSONIFICATION', 'GERMANIC') pmi:  10295205.000000097 , ('PERSONIFICATION', 'GERMANIC') freq:  1 ,  PERSONIFICATION freq:  1 , GERMANIC freq:  1
+('GERMANIC', 'MANHOOD') pmi:  10295205.000000097 , ('GERMANIC', 'MANHOOD') freq:  1 ,  GERMANIC freq:  1 , MANHOOD freq:  1
+('ZAIMAN', 'NURMATIAS') pmi:  10295205.000000097 , ('ZAIMAN', 'NURMATIAS') freq:  1 ,  ZAIMAN freq:  1 , NURMATIAS freq:  1
+('ESTRADE', 'OYUELA') pmi:  10295205.000000097 , ('ESTRADE', 'OYUELA') freq:  1 ,  ESTRADE freq:  1 , OYUELA freq:  1
+('TOFILAU', 'ETI') pmi:  10295205.000000097 , ('TOFILAU', 'ETI') freq:  1 ,  TOFILAU freq:  1 , ETI freq:  1
+Threshold is 10
+('SANS', 'FRONTIERES') pmi:  857933.7500000081 , ('SANS', 'FRONTIERES') freq:  11 ,  SANS freq:  12 , FRONTIERES freq:  11
+('TSANN', 'KUEN') pmi:  857933.7500000081 , ('TSANN', 'KUEN') freq:  11 ,  TSANN freq:  11 , KUEN freq:  12
+('BNP', 'PARIBAS') pmi:  857933.7500000081 , ('BNP', 'PARIBAS') freq:  11 ,  BNP freq:  12 , PARIBAS freq:  11
+('STYRENE', 'MONOMER') pmi:  791938.8461538536 , ('STYRENE', 'MONOMER') freq:  11 ,  STYRENE freq:  13 , MONOMER freq:  11
+('PUEDO', 'VIVIR') pmi:  686347.0000000064 , ('PUEDO', 'VIVIR') freq:  13 ,  PUEDO freq:  13 , VIVIR freq:  15
+('YAZHOU', 'ZHOUKAN') pmi:  686347.0000000063 , ('YAZHOU', 'ZHOUKAN') freq:  15 ,  YAZHOU freq:  15 , ZHOUKAN freq:  15
+('MUNOZ', 'LEDO') pmi:  643450.3125000059 , ('MUNOZ', 'LEDO') freq:  15 ,  MUNOZ freq:  15 , LEDO freq:  16
+('PHOSPHORUS', 'PENTASULFIDE') pmi:  643450.3125000059 , ('PHOSPHORUS', 'PENTASULFIDE') freq:  14 ,  PHOSPHORUS freq:  16 , PENTASULFIDE freq:  14
+('BAWA', 'JAIN') pmi:  643450.3125000059 , ('BAWA', 'JAIN') freq:  12 ,  BAWA freq:  12 , JAIN freq:  16
+('TOLUENE', 'DI-ISOCYANATE') pmi:  605600.2941176528 , ('TOLUENE', 'DI-ISOCYANATE') freq:  14 ,  TOLUENE freq:  17 , DI-ISOCYANATE freq:  14
+('MUSCULAR', 'DYSTROPHY') pmi:  605600.2941176528 , ('MUSCULAR', 'DYSTROPHY') freq:  14 ,  MUSCULAR freq:  17 , DYSTROPHY freq:  14
+('IRINOTECAN', 'HYDROCHLORIDE') pmi:  605600.2941176528 , ('IRINOTECAN', 'HYDROCHLORIDE') freq:  12 ,  IRINOTECAN freq:  12 , HYDROCHLORIDE freq:  17
+('INDO-PACIFIC', 'HUMPBACK') pmi:  571955.8333333388 , ('INDO-PACIFIC', 'HUMPBACK') freq:  11 ,  INDO-PACIFIC freq:  11 , HUMPBACK freq:  18
+('NOBUTAKA', 'MACHIMURA') pmi:  541852.8947368473 , ('NOBUTAKA', 'MACHIMURA') freq:  11 ,  NOBUTAKA freq:  11 , MACHIMURA freq:  19
+('DOMINADOR', 'KAISER') pmi:  534353.2006920467 , ('DOMINADOR', 'KAISER') freq:  15 ,  DOMINADOR freq:  17 , KAISER freq:  17
+('ADOLF', 'HITLER') pmi:  514760.2500000049 , ('ADOLF', 'HITLER') freq:  11 ,  ADOLF freq:  11 , HITLER freq:  20
+('DESMOND', 'MPILO') pmi:  514760.25000000483 , ('DESMOND', 'MPILO') freq:  15 ,  DESMOND freq:  20 , MPILO freq:  15
+('WALSIN', 'LIHWA') pmi:  490247.85714286176 , ('WALSIN', 'LIHWA') freq:  19 ,  WALSIN freq:  21 , LIHWA freq:  19
+('MAE', 'SOT') pmi:  490247.85714286176 , ('MAE', 'SOT') freq:  11 ,  MAE freq:  21 , SOT freq:  11
+('BONA', 'FIDE') pmi:  467963.86363636807 , ('BONA', 'FIDE') freq:  21 ,  BONA freq:  21 , FIDE freq:  22
+('MONTE', 'CARLO') pmi:  442372.0898437542 , ('MONTE', 'CARLO') freq:  11 ,  MONTE freq:  16 , CARLO freq:  16
+('HELMUT', 'KOHL') pmi:  441223.07142857555 , ('HELMUT', 'KOHL') freq:  12 ,  HELMUT freq:  20 , KOHL freq:  14
+('IRIAN', 'JAYA') pmi:  428966.8750000041 , ('IRIAN', 'JAYA') freq:  21 ,  IRIAN freq:  21 , JAYA freq:  24
+('SABER', 'RATTLING') pmi:  424881.47619048017 , ('SABER', 'RATTLING') freq:  13 ,  SABER freq:  15 , RATTLING freq:  21
+('HEWLETT', 'PACKARD') pmi:  421167.47727273125 , ('HEWLETT', 'PACKARD') freq:  18 ,  HEWLETT freq:  20 , PACKARD freq:  22
+('JENN', 'LANN') pmi:  411808.2000000039 , ('JENN', 'LANN') freq:  21 ,  JENN freq:  25 , LANN freq:  21
+('OCULAR', 'NASAL') pmi:  411808.2000000039 , ('OCULAR', 'NASAL') freq:  11 ,  OCULAR freq:  11 , NASAL freq:  25
+('NOVA', 'SCOTIA') pmi:  395969.42307692685 , ('NOVA', 'SCOTIA') freq:  19 ,  NOVA freq:  26 , SCOTIA freq:  19
+('DISTAL', 'ILEUM') pmi:  395969.4230769268 , ('DISTAL', 'ILEUM') freq:  26 ,  DISTAL freq:  26 , ILEUM freq:  26
+('LECH', 'WALESA') pmi:  395969.4230769268 , ('LECH', 'WALESA') freq:  17 ,  LECH freq:  17 , WALESA freq:  26
+Threshold is 100
+('SPONGIFORM', 'ENCEPHALOPATHY') pmi:  96208.30589177735 , ('SPONGIFORM', 'ENCEPHALOPATHY') freq:  105 ,  SPONGIFORM freq:  106 , ENCEPHALOPATHY freq:  106
+('YING-', 'JEOU') pmi:  76640.81487633885 , ('YING-', 'JEOU') freq:  121 ,  YING- freq:  126 , JEOU freq:  129
+('BOVINE', 'SPONGIFORM') pmi:  75786.60055746214 , ('BOVINE', 'SPONGIFORM') freq:  103 ,  BOVINE freq:  132 , SPONGIFORM freq:  106
+('ALMA', 'MATER') pmi:  74371.96594427315 , ('ALMA', 'MATER') freq:  112 ,  ALMA freq:  136 , MATER freq:  114
+('SRI', 'LANKA') pmi:  68982.24413073565 , ('SRI', 'LANKA') freq:  131 ,  SRI freq:  147 , LANKA freq:  133
+('TOME', 'PRINCIPE') pmi:  51946.99018207289 , ('TOME', 'PRINCIPE') freq:  166 ,  TOME freq:  197 , PRINCIPE freq:  167
+('KUALA', 'LUMPUR') pmi:  49730.53254579414 , ('KUALA', 'LUMPUR') freq:  202 ,  KUALA freq:  206 , LUMPUR freq:  203
+('SAO', 'TOME') pmi:  46343.70606263811 , ('SAO', 'TOME') freq:  188 ,  SAO freq:  212 , TOME freq:  197
+('AU', 'OPTRONICS') pmi:  43711.84228240087 , ('AU', 'OPTRONICS') freq:  164 ,  AU freq:  217 , OPTRONICS freq:  178
+('ERIC', 'LILUAN') pmi:  42643.58707312753 , ('ERIC', 'LILUAN') freq:  139 ,  ERIC freq:  238 , LILUAN freq:  141
+('QIAN', 'QICHEN') pmi:  40846.01658536624 , ('QIAN', 'QICHEN') freq:  122 ,  QIAN freq:  250 , QICHEN freq:  123
+('BARACK', 'OBAMA') pmi:  39681.246788048236 , ('BARACK', 'OBAMA') freq:  105 ,  BARACK freq:  106 , OBAMA freq:  257
+('SAUDI', 'ARABIA') pmi:  38829.691387816754 , ('SAUDI', 'ARABIA') freq:  211 ,  SAUDI freq:  259 , ARABIA freq:  216
+('EN', 'MASSE') pmi:  32810.60125771877 , ('EN', 'MASSE') freq:  112 ,  EN freq:  311 , MASSE freq:  113
+('BONE', 'MARROW') pmi:  29688.118671304317 , ('BONE', 'MARROW') freq:  131 ,  BONE freq:  277 , MARROW freq:  164
+('PERNG', 'FAI-NAN') pmi:  26988.611541869992 , ('PERNG', 'FAI-NAN') freq:  142 ,  PERNG freq:  366 , FAI-NAN freq:  148
+('YIIN', 'CHII-MING') pmi:  26544.807434627503 , ('YIIN', 'CHII-MING') freq:  127 ,  YIIN freq:  376 , CHII-MING freq:  131
+('SYMPHONY', 'ORCHESTRA') pmi:  26483.66920579446 , ('SYMPHONY', 'ORCHESTRA') freq:  103 ,  SYMPHONY freq:  143 , ORCHESTRA freq:  280
+('BETEL', 'NUT') pmi:  26462.242288961286 , ('BETEL', 'NUT') freq:  190 ,  BETEL freq:  352 , NUT freq:  210
+('AD', 'HOC') pmi:  26196.450381679642 , ('AD', 'HOC') freq:  277 ,  AD freq:  393 , HOC freq:  277
+('BURKINA', 'FASO') pmi:  26192.796034276853 , ('BURKINA', 'FASO') freq:  383 ,  BURKINA freq:  386 , FASO freq:  390
+('ZHU', 'RONGJI') pmi:  24850.948829848687 , ('ZHU', 'RONGJI') freq:  151 ,  ZHU freq:  401 , RONGJI freq:  156
+('MAD', 'COW') pmi:  23800.375452191074 , ('MAD', 'COW') freq:  324 ,  MAD freq:  341 , COW freq:  411
+('KIDD-CLASS', 'DESTROYERS') pmi:  23656.261488970813 , ('KIDD-CLASS', 'DESTROYERS') freq:  120 ,  KIDD-CLASS freq:  136 , DESTROYERS freq:  384
+('BETEL', 'NUTS') pmi:  22166.70933014375 , ('BETEL', 'NUTS') freq:  144 ,  BETEL freq:  352 , NUTS freq:  190
+('P-3C', 'ANTI-SUBMARINE') pmi:  21934.749927777182 , ('P-3C', 'ANTI-SUBMARINE') freq:  118 ,  P-3C freq:  172 , ANTI-SUBMARINE freq:  322
+('NAUTICAL', 'MILES') pmi:  21366.166187739662 , ('NAUTICAL', 'MILES') freq:  338 ,  NAUTICAL freq:  348 , MILES freq:  468
+('YAUNG', 'CHIH-LIANG') pmi:  20408.697008854688 , ('YAUNG', 'CHIH-LIANG') freq:  135 ,  YAUNG freq:  451 , CHIH-LIANG freq:  151
+('MAO', 'CHI-KUO') pmi:  19042.113095238274 , ('MAO', 'CHI-KUO') freq:  110 ,  MAO freq:  531 , CHI-KUO freq:  112
+('SHIEH', 'JHY-WEY') pmi:  18867.304611593143 , ('SHIEH', 'JHY-WEY') freq:  116 ,  SHIEH freq:  541 , JHY-WEY freq:  117
+Threshold is 200
+('KUALA', 'LUMPUR') pmi:  49730.53254579414 , ('KUALA', 'LUMPUR') freq:  202 ,  KUALA freq:  206 , LUMPUR freq:  203
+('SAUDI', 'ARABIA') pmi:  38829.691387816754 , ('SAUDI', 'ARABIA') freq:  211 ,  SAUDI freq:  259 , ARABIA freq:  216
+('AD', 'HOC') pmi:  26196.450381679642 , ('AD', 'HOC') freq:  277 ,  AD freq:  393 , HOC freq:  277
+('BURKINA', 'FASO') pmi:  26192.796034276853 , ('BURKINA', 'FASO') freq:  383 ,  BURKINA freq:  386 , FASO freq:  390
+('MAD', 'COW') pmi:  23800.375452191074 , ('MAD', 'COW') freq:  324 ,  MAD freq:  341 , COW freq:  411
+('NAUTICAL', 'MILES') pmi:  21366.166187739662 , ('NAUTICAL', 'MILES') freq:  338 ,  NAUTICAL freq:  348 , MILES freq:  468
+('POUND', 'STERLING') pmi:  18852.932952107218 , ('POUND', 'STERLING') freq:  489 ,  POUND freq:  533 , STERLING freq:  501
+('SMALL-', 'MEDIUM-SIZED') pmi:  18617.00723327323 , ('SMALL-', 'MEDIUM-SIZED') freq:  348 ,  SMALL- freq:  406 , MEDIUM-SIZED freq:  474
+('U.', 'S.') pmi:  18149.391800341094 , ('U.', 'S.') freq:  242 ,  U. freq:  274 , S. freq:  501
+('RESPIRATORY', 'SYNDROME') pmi:  18076.713823463186 , ('RESPIRATORY', 'SYNDROME') freq:  280 ,  RESPIRATORY freq:  411 , SYNDROME freq:  388
+('HON', 'HAI') pmi:  17607.523547909357 , ('HON', 'HAI') freq:  471 ,  HON freq:  484 , HAI freq:  569
+('FALUN', 'GONG') pmi:  15991.610496587584 , ('FALUN', 'GONG') freq:  495 ,  FALUN freq:  525 , GONG freq:  607
+('ACUTE', 'RESPIRATORY') pmi:  15955.590037878323 , ('ACUTE', 'RESPIRATORY') freq:  286 ,  ACUTE freq:  449 , RESPIRATORY freq:  411
+('CANCELLATIONS', 'LAST-MINUTE') pmi:  14241.3352315498 , ('CANCELLATIONS', 'LAST-MINUTE') freq:  634 ,  CANCELLATIONS freq:  675 , LAST-MINUTE freq:  679
+('DALAI', 'LAMA') pmi:  13616.811703700612 , ('DALAI', 'LAMA') freq:  730 ,  DALAI freq:  732 , LAMA freq:  754
+('SWEDEN', 'KRONE') pmi:  13239.941208184431 , ('SWEDEN', 'KRONE') freq:  489 ,  SWEDEN freq:  776 , KRONE freq:  490
+('COSTA', 'RICA') pmi:  12620.199653371055 , ('COSTA', 'RICA') freq:  592 ,  COSTA freq:  793 , RICA freq:  609
+('LOS', 'ANGELES') pmi:  11754.32631619469 , ('LOS', 'ANGELES') freq:  801 ,  LOS freq:  864 , ANGELES freq:  812
+('TORCH', 'RELAY') pmi:  11497.000872448198 , ('TORCH', 'RELAY') freq:  288 ,  TORCH freq:  495 , RELAY freq:  521
+('CLOUD', 'GATE') pmi:  11444.20297910193 , ('CLOUD', 'GATE') freq:  360 ,  CLOUD freq:  624 , GATE freq:  519
+('MUTUALLY', 'BENEFICIAL') pmi:  11386.29137723632 , ('MUTUALLY', 'BENEFICIAL') freq:  228 ,  MUTUALLY freq:  353 , BENEFICIAL freq:  584
+('EL', 'SALVADOR') pmi:  11021.274510214 , ('EL', 'SALVADOR') freq:  768 ,  EL freq:  849 , SALVADOR freq:  845
+('DE', 'FACTO') pmi:  11016.900343347745 , ('DE', 'FACTO') freq:  374 ,  DE freq:  932 , FACTO freq:  375
+('EQUAL', 'FOOTING') pmi:  10679.458124358069 , ('EQUAL', 'FOOTING') freq:  206 ,  EQUAL freq:  804 , FOOTING freq:  247
+('SWISS', 'FRANC') pmi:  10604.800239649454 , ('SWISS', 'FRANC') freq:  490 ,  SWISS freq:  961 , FRANC freq:  495
+('GEORGE', 'W.') pmi:  10596.86401215386 , ('GEORGE', 'W.') freq:  437 ,  GEORGE freq:  732 , W. freq:  580
+('DEGREES', 'CELSIUS') pmi:  9874.021335807141 , ('DEGREES', 'CELSIUS') freq:  366 ,  DEGREES freq:  924 , CELSIUS freq:  413
+('TIEN', 'HUNG-MAO') pmi:  9870.854106936833 , ('TIEN', 'HUNG-MAO') freq:  206 ,  TIEN freq:  1004 , HUNG-MAO freq:  214
+('LISTING', 'TOMORROW') pmi:  9652.703378767279 , ('LISTING', 'TOMORROW') freq:  655 ,  LISTING freq:  918 , TOMORROW freq:  761
+('MOON', 'LAKE') pmi:  9469.017149900606 , ('MOON', 'LAKE') freq:  294 ,  MOON freq:  509 , LAKE freq:  628
+PMI for NEW YORK
+325.8864252413733
